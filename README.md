@@ -19,3 +19,4 @@ samples, guidance on mobile development, and a full API reference.
 -Interessante:
     - parametros nomeados, opcionais
     - interpolação de valor ('$variavel conteudo')
+    - CTRL + N (navegacao entre classes)
